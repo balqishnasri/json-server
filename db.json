@@ -2,21 +2,31 @@
   "explore": [
     {
       "id": "1",
-      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-      "title": "Funny Bunny",
-      "uploader": "Nature Channel"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "title": "Big Buck Bunny",
+      "uploader": "Nature Channel",
+      "likes": 1200
     },
     {
       "id": "2",
-      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4",
-      "title": "Sunny Beach",
-      "uploader": "Travel Vlogs"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "title": "Elephant’s Dream",
+      "uploader": "Blender Foundation",
+      "likes": 890
     },
     {
       "id": "3",
-      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4",
-      "title": "Workout Routine",
-      "uploader": "Fitness Pro"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "title": "Sintel",
+      "uploader": "Blender Foundation",
+      "likes": 654
+    },
+    {
+      "id": "4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "title": "Tears of Steel",
+      "uploader": "Blender Institute",
+      "likes": 432
     }
   ]
 }
