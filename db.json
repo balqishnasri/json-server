@@ -1,0 +1,22 @@
+{
+  "explore": [
+    {
+      "id": "1",
+      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "title": "Funny Bunny",
+      "uploader": "Nature Channel"
+    },
+    {
+      "id": "2",
+      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4",
+      "title": "Sunny Beach",
+      "uploader": "Travel Vlogs"
+    },
+    {
+      "id": "3",
+      "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4",
+      "title": "Workout Routine",
+      "uploader": "Fitness Pro"
+    }
+  ]
+}
