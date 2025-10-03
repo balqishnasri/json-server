@@ -4,21 +4,47 @@
       "id": "1",
       "type": "video",
       "urls": [
-        "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo1.mp4?alt=media&token=5d70298c-8874-4777-b34d-4556b31aafef"
       ],
-      "caption": "Big Buck Bunny",
+      "caption": "Sample Video from Firebase",
       "uploader": "TestUser",
-      "likes": 120
+      "likes": 150,
+      "commentsCount": 2,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alice",
+          "text": "Awesome video!"
+        },
+        {
+          "id": 2,
+          "user": "Bob",
+          "text": "Works smoothly in the app 🎬"
+        }
+      ]
     },
     {
       "id": "2",
-      "type": "video",
+      "type": "image",
       "urls": [
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/images%2Fimage1.png?alt=media&token=3a3c351e-d036-4619-ae80-87adc1a656fd"
       ],
-      "caption": "Elephant Dream",
+      "caption": "Sample Image from Firebase",
       "uploader": "OpenMovie",
-      "likes": 200
+      "likes": 90,
+      "commentsCount": 2,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Charlie",
+          "text": "Nice picture!"
+        },
+        {
+          "id": 2,
+          "user": "Diana",
+          "text": "Love the colors 🌈"
+        }
+      ]
     }
   ]
 }
