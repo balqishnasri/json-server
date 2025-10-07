@@ -11,39 +11,101 @@
       "likes": 150,
       "commentsCount": 2,
       "comments": [
-        {
-          "id": 1,
-          "user": "Alice",
-          "text": "Awesome video!"
-        },
-        {
-          "id": 2,
-          "user": "Bob",
-          "text": "Works smoothly in the app 🎬"
-        }
+        { "id": 1, "user": "Alice", "text": "Awesome video!" },
+        { "id": 2, "user": "Bob", "text": "Works smoothly in the app 🎬" }
       ]
     },
     {
       "id": "2",
       "type": "image",
       "urls": [
-        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/images%2Fimage1.png?alt=media&token=3a3c351e-d036-4619-ae80-87adc1a656fd"
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo2.mp4?alt=media&token=964c52ae-abcc-49dd-a1b2-0d7af78f422b"
       ],
       "caption": "Sample Image from Firebase",
       "uploader": "OpenMovie",
       "likes": 90,
       "commentsCount": 2,
       "comments": [
-        {
-          "id": 1,
-          "user": "Charlie",
-          "text": "Nice picture!"
-        },
-        {
-          "id": 2,
-          "user": "Diana",
-          "text": "Love the colors 🌈"
-        }
+        { "id": 1, "user": "Charlie", "text": "Nice picture!" },
+        { "id": 2, "user": "Diana", "text": "Love the colors 🌈" }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "video",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo3.mp4?alt=media&token=bd49ae47-8d84-462b-b3e7-80288f58b6b6"
+      ],
+      "caption": "Exploring Flutter Animations",
+      "uploader": "DevStudio",
+      "likes": 210,
+      "commentsCount": 3,
+      "comments": [
+        { "id": 1, "user": "Eve", "text": "Very helpful tutorial!" },
+        { "id": 2, "user": "Frank", "text": "Animation is so smooth 👌" },
+        { "id": 3, "user": "Grace", "text": "Love your content!" }
+      ]
+    },
+    {
+      "id": "4",
+      "type": "video",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo4.mp4?alt=media&token=8f1e8453-5c5b-4d14-a099-b3db55dc0545"
+      ],
+      "caption": "Beautiful Nature Timelapse",
+      "uploader": "NatureLover",
+      "likes": 320,
+      "commentsCount": 2,
+      "comments": [
+        { "id": 1, "user": "Hannah", "text": "This is so calming 🌿" },
+        { "id": 2, "user": "Ian", "text": "I could watch this all day!" }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "video",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo5.mp4?alt=media&token=83710734-e20e-444f-b186-942ed9fa3b0e"
+      ],
+      "caption": "Behind the Scenes: App Development",
+      "uploader": "CodeCraft",
+      "likes": 175,
+      "commentsCount": 3,
+      "comments": [
+        { "id": 1, "user": "Jack", "text": "Love seeing the process!" },
+        { "id": 2, "user": "Kelly", "text": "Super insightful 👏" },
+        { "id": 3, "user": "Leo", "text": "Can’t wait for the next one!" }
+      ]
+    },
+    {
+      "id": "6",
+      "type": "video",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo6.mp4?alt=media&token=670efd62-a54a-4462-9254-94d12e568b8b"
+      ],
+      "caption": "Cinematic Drone Footage",
+      "uploader": "SkyView",
+      "likes": 400,
+      "commentsCount": 2,
+      "comments": [
+        { "id": 1, "user": "Maya", "text": "The view is breathtaking 😍" },
+        { "id": 2, "user": "Noah", "text": "So cinematic!" }
+      ]
+    },
+    {
+      "id": "7",
+      "type": "video",
+      "urls": [
+        "https://firebasestorage.googleapis.com/v0/b/test-flutter-video.firebasestorage.app/o/videos%2Fvideo7.mp4?alt=media&token=e38dd3c0-e653-4114-90d2-2a3f2708f1fe"
+      ],
+      "caption": "Quick Tips for Better UI Design",
+      "uploader": "DesignPro",
+      "likes": 260,
+      "commentsCount": 3,
+      "comments": [
+        { "id": 1, "user": "Olivia", "text": "These tips are gold 💎" },
+        { "id": 2, "user": "Paul", "text": "Super helpful for my project!" },
+        { "id": 3, "user": "Quinn", "text": "Keep sharing more 🙌" }
       ]
     }
   ]
